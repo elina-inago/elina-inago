@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </tr> 
   
 <tr>
-  <td><a href = "https://github.com/Stuksus/Data-preparation-for-credit-scoring">Исследование надёжности заёмщиков</a></td>
+  <td><a href = "https://github.com/elina-inago/elina-inago-Investigation-of-the-reliability-of-borrowers">Исследование надёжности заёмщиков</a></td>
   <td>Яндекс.Практикум</td>
   <td>Определить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок</td>
   <td>Завершен</td>
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-  <td><a href = "https://github.com/Stuksus/Mobile-tariffs-analysis">Определение перспективного тарифа для телеком компании</a></td>
+  <td><a href = "https://github.com/elina-inago/Determination-of-a-promising-tariff-for-a-telecom-company">Определение перспективного тарифа для телеком компании</a></td>
   <td>Яндекс.Практикум</td>
   <td>Клиентам предлагают два тарифных плана. Мне предстоит сделать предварительный анализ тарифов на небольшой выборке клиентов, чтобы скорректировать рекламный бюджет</td>
   <td>Завершен</td>
