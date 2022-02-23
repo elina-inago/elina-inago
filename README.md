@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 </tr>
 
 <tr>
-  <td><a href = "https://github.com/Stuksus/Game-market-analysis">Прогноз продаж в интернет-магазине</a></td>
+  <td><a href = "https://github.com/elina-inago/The-pattern-that-determines-the-success-of-the-game">Нахождение закономерностей, определяющих успешность игры</a></td>
   <td>Яндекс.Практикум</td>
   <td>На основании доступных данных о продажи игр мне нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании</td>
   <td>Завершен</td>
